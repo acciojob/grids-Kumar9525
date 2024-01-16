@@ -8,22 +8,22 @@
 	border:5px solid rgb(255, 188, 188);
 	height:200px;
 }
-.Row1Col1{
+.r1c1{
 	Background-color:teal;
 }
-.Row1Col2{
+.r1c2{
 	Background-color:thistle;
 }
-.Row2Col1{
+.r2c1{
 	Background-color:tomato;
 }
-.Row2Col2{
+.r2c2{
 	Background-color:turquoise;
 }
-.Row3Col1{
+.r3c1{
 	Background-color:violet;
 }
-.Row3Col2{
+.r3c2{
 	Background-color:yellowgreen;
 }
 /* Your CSS Code here. */
