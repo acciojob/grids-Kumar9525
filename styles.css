@@ -1,6 +1,29 @@
 .container{
 	width:600px;
-	background-color:lightgreen;
+	background-color:rgb(41, 0, 0);
 	display:grid;
+	border:5px solid rgb(4, 255, 4);
+}
+.row{
+	border:5px solid rgb(255, 188, 188);
+	height:200px;
+}
+.Row1Col1{
+	Background-color:teal;
+}
+.Row1Col2{
+	Background-color:thistle;
+}
+.Row2Col1{
+	Background-color:tomato;
+}
+.Row2Col2{
+	Background-color:turquoise;
+}
+.Row3Col1{
+	Background-color:violet;
+}
+.Row3Col2{
+	Background-color:yellowgreen;
 }
 /* Your CSS Code here. */
